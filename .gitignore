@@ -1,0 +1,5 @@
+# ignore the below 
+
+bin
+obj
+packages
